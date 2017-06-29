@@ -1,0 +1,31 @@
+.cover{
+	background: url("http://swiftsrbija.rs/wp-content/uploads/2016/03/20160302_180136.jpg");
+	width:1300px;
+	height:500px;
+	background-size:cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+article{
+	position:relative;
+	text-align: center;
+	width:1200px;
+	min-width:200px;
+	height:600px;
+	min-height: 400px;
+	padding-left:100px; 
+	padding-right: 100px;
+}
+.content{
+	background-position: right;
+	background-repeat: no-repeat;
+}
+.blog-post{
+	text-align: left;
+}
+footer{
+	color:orange;
+	text-align: left;
+}

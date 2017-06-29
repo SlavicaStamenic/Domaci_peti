@@ -1,0 +1,44 @@
+#lifestyle{
+	list-style:none;
+	float:center; 
+	display:inline-block;
+	padding-right: 20px;
+	padding-left: 20px;
+	background-color: gray;
+}
+.nutrition{
+	width:50px;
+	height:30px;
+	position: relative;
+	text-align: center;
+}
+.exercise{
+	width:50px;
+	height:30px;
+	position: relative;
+	text-align: center;
+}
+.plan{
+	width:50px;
+	height:30px;
+	position: relative;
+	text-align: center;
+}
+fa-apple{
+	width:10px;
+	height:10px;
+	border-radius:50%;
+	position: relative;
+}
+fa-arrow-circle-up{
+	width:10px;
+	height:10px;
+	border-radius:50%;
+	position: relative;
+}
+fa-clock-o{
+	width:10px;
+	height:10px;
+	border-radius:50%;
+	position: relative;
+}
